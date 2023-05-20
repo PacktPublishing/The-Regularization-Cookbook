@@ -22,3 +22,22 @@ The Regularization Cookbook, published by Packt
 [Chapter 10: Regularization in Computer Vision](chapter_10/chapter_10.ipynb)
 
 [Chapter 11: Regularization in Computer Vision: Synthetic Image Generation](chapter_11/chapter_11.ipynb)
+
+# Usage
+
+Clone this repo:
+```shell
+git clone git@github.com:PacktPublishing/The-Regularization-Cookbook.git
+```
+
+Create a virtual environment and install dependencies:
+```shell
+conda create -n regularization python=3.9
+conda activate regularization
+pip install -r requirements.txt
+```
+
+Then launch jupyter notebook, run and adapt the codes as you want:
+```shell
+jupyter notebook
+```
