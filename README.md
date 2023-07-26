@@ -58,7 +58,7 @@ With the following software and hardware list you can run all code files present
 **Vincent Vandenbussche** After a Ph.D. in Physics, Vincent Vandenbussche has worked for a decade in the industry, deploying ML solutions at scale. He has worked in numerous companies, such as Renault, L’Oréal, General Electric, Jellysmack, Chanel, and CERN.
 He also has a passion for teaching: he co-founded a data science boot camp, was an ML lecturer at Mines Paristech engineering school and EDHEC business school and trained numerous professionals in companies like ArcelorMittal and Orange.
 
-# Usage
+## Usage
 
 Clone this repo:
 ```shell
