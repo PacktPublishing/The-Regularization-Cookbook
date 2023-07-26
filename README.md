@@ -54,7 +54,7 @@ With the following software and hardware list you can run all code files present
 
 * Pretrain Vision and Large Language Models in Python [[Packt]](https://www.packtpub.com/product/pretrain-vision-and-large-language-models-in-python/9781804618257) [[Amazon]](https://www.amazon.in/Pretrain-Vision-Language-Models-Beginners-ebook/dp/B0BFFDF4MQ)
 
-## Get to Know the Author(s)
+## Get to Know the Author
 **Vincent Vandenbussche** After a Ph.D. in Physics, Vincent Vandenbussche has worked for a decade in the industry, deploying ML solutions at scale. He has worked in numerous companies, such as Renault, L’Oréal, General Electric, Jellysmack, Chanel, and CERN.
 He also has a passion for teaching: he co-founded a data science boot camp, was an ML lecturer at Mines Paristech engineering school and EDHEC business school and trained numerous professionals in companies like ArcelorMittal and Orange.
 
