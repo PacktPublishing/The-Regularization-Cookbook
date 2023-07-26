@@ -32,8 +32,9 @@ All of the code is organized into folders.
 
 The code will look like the following:
 ```
-<Any code block from the book>
-
+# Load data
+data = pd.read_csv('Tweets.csv')
+data[['airline_sentiment', 'text']].head()
 ```
 
 **Following is what you need for this book:**
