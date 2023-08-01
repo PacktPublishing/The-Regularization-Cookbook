@@ -1,4 +1,4 @@
-# The-Regularization-Cookbook
+# The Regularization Cookbook
 
 <a href="https://www.amazon.es/Regularization-Cookbook-practical-recipes-robustness-ebook/dp/B0BRSSG5Z6"><img src="https://m.media-amazon.com/images/I/51sCPuArqDL.jpg" alt="The Regularization Cookbook" height="256px" align="right"></a>
 
