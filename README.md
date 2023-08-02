@@ -1,8 +1,8 @@
 # The Regularization Cookbook
 
-<a href="https://www.amazon.es/Regularization-Cookbook-practical-recipes-robustness-ebook/dp/B0BRSSG5Z6"><img src="https://m.media-amazon.com/images/I/51sCPuArqDL.jpg" alt="The Regularization Cookbook" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/product/the-regularization-cookbook/9781837634088"><img src="https://content.packt.com/B19629/cover_image_small.jpg" alt="The Regularization Cookbook" height="256px" align="right"></a>
 
-This is the code repository for [The Regularization Cookbook](https://www.amazon.es/Regularization-Cookbook-practical-recipes-robustness-ebook/dp/B0BRSSG5Z6), published by Packt.
+This is the code repository for [The Regularization Cookbook](https://www.packtpub.com/product/the-regularization-cookbook/9781837634088), published by Packt.
 
 **Explore practical recipes to improve the functionality of your ML models**
 
