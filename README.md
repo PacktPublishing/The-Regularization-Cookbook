@@ -40,7 +40,7 @@ data[['airline_sentiment', 'text']].head()
 **Following is what you need for this book:**
 This book is for data scientists, machine learning engineers, and machine learning enthusiasts, looking to get hands-on knowledge to improve the performances of their models. Basic knowledge of Python is a prerequisite.
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-11.
+With the following software and hardware list you can run all code files present in the book (Chapter 1-11).
 
 ### Software and Hardware List
 
