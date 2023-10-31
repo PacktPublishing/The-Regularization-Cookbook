@@ -1,0 +1,4 @@
+train: ../Traffic Dataset/images/train 
+val: ../Traffic Dataset/images/val 
+nc: 7 
+names: ['Car', 'Number Plate', 'Blur Number Plate', 'Two Wheeler', 'Auto', 'Bus', 'Truck']

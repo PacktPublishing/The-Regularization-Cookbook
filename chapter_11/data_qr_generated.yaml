@@ -1,0 +1,4 @@
+train: ../../QR-detection-yolo/generated_qr_code_images/images 
+val: ../../QR-detection-yolo/test/images 
+nc: 1
+names: ['QR_CODE']
