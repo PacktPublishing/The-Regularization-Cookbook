@@ -1,11 +1,3 @@
-
-### [Packt Conference : Put Generative AI to work on Oct 11-13 (Virtual)](https://packt.link/JGIEY)
-
-<b><p align='center'>[![Packt Conference](https://hub.packtpub.com/wp-content/uploads/2023/08/put-generative-ai-to-work-packt.png)](https://packt.link/JGIEY)</p></b> 
-3 Days, 20+ AI Experts, 25+ Workshops and Power Talks 
-
-Code: <b>USD75OFF</b>
-
 # The Regularization Cookbook
 
 <a href="https://www.packtpub.com/product/the-regularization-cookbook/9781837634088"><img src="https://content.packt.com/B19629/cover_image_small.jpg" alt="The Regularization Cookbook" height="256px" align="right"></a>
@@ -35,6 +27,131 @@ If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1837
 
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" alt="https://www.packtpub.com/" border="5" /></a>
 
+## Detailed Chapters Content
+<details>
+    <summary>
+        <a href="chapter_01/chapter_01.ipynb">Chapter 1: An Overview of Regularization</a>
+    </summary>
+- Introducing regularization
+</details>
+
+<details>
+    <summary>
+        <a href="chapter_02/chapter_02.ipynb">Chapter 2: Machine Learning Refresher</a>
+    </summary>
+- Loading the data
+- Splitting the data
+- Preparing quantitative data
+- Preparing qualitative data
+- Model training
+- Model evaluation
+- Hyperparameter optimization
+</details>
+
+<details>
+    <summary>
+        <a href="chapter_03/chapter_03.ipynb">Chapter 3: Regularization with Linear Models</a>
+    </summary>
+- Training a Linear Regression with scikit-learn
+- Regularizing with Ridge Regression
+- Regularizing with Lasso Regression
+- Regularizing with an Elastic Net Regression
+- Training a Logistic Regression
+- Regularizing a Logistic Regression
+- Choosing the Right Regularization
+</details>
+
+<details>
+    <summary>
+        <a href="chapter_04/chapter_04.ipynb">Chapter 4: Regularization with Tree-based Models</a>
+    </summary>
+- Building a classification tree
+- Building a Regression Tree
+- Regularizing a decision tree
+- Training a Random Forest
+- Regularizing a Random Forest
+- Training a Boosting model with XGBoost
+- Regularizing with XGBoost
+</details>
+
+<details>
+    <summary>
+        <a href="chapter_05/chapter_05.ipynb">Chapter 5: Regularization with Data</a>
+    </summary>
+
+- Hashing high cardinality features
+- Aggregating features
+- Undersampling an imbalanced dataset
+- Oversampling an imbalanced dataset
+- Resampling imbalanced data with SMOTE
+</details>
+
+<details>
+    <summary>
+        <a href="chapter_06/chapter_06.ipynb">Chapter 6: Deep Learning Reminders</a>
+    </summary>
+
+- Training a perceptron
+- Training a neural network for regression
+- Training a neural network for binary classification
+- Training a multiclass classification neural network
+</details>
+
+<details>
+    <summary>
+        <a href="chapter_07/chapter_07.ipynb">Chapter 7: Deep Learning Regularization</a>
+    </summary>
+
+- Regularizing a neural network with L2 regularization
+- Regularizing a neural network with early stopping
+- Regularizing with network architecture
+- Regularizing with dropout
+</details>
+
+<details>
+    <summary>
+        <a href="chapter_08/chapter_08.ipynb">Chapter 8: Regularization with Recurrent Neural Networks</a>
+    </summary>
+
+- Training a RNN
+- Training a GRU
+- Regularizing with dropout
+- Regularizing with maximum sequence length
+</details>
+
+<details>
+    <summary>
+        <a href="chapter_09/chapter_09.ipynb">Chapter 9: Advanced Regularization in Natural Language Processing</a>
+    </summary>
+
+- Regularization using a word2vec embedding
+- Data augmentation using word2vec
+- Zero-shot inference with pre-trained models
+- Regularization with BERT embeddings
+- Data augmentation using GPT-3
+</details>
+
+<details>
+    <summary>
+        <a href="chapter_10/chapter_10.ipynb">Chapter 10: Regularization in Computer Vision</a>
+    </summary>
+
+- Training a CNN
+- Regularizing a CNN with vanilla NN methods
+- Regularizing a CNN with transfer learning for object detection
+- Semantic segmentation using transfer learning
+</details>
+
+<details>
+    <summary>
+        <a href="chapter_11/chapter_11.ipynb">Chapter 11: Regularization in Computer Vision: Synthetic Image Generation</a>
+    </summary>
+
+- Applying image augmentation with Albumentations
+- Creating synthetic images for object detection
+- Implementing real-time style transfer
+</details>
+
 ## Instructions and Navigations
 All of the code is organized into folders.
 
@@ -63,8 +180,8 @@ With the following software and hardware list you can run all code files present
 * Pretrain Vision and Large Language Models in Python [[Packt]](https://www.packtpub.com/product/pretrain-vision-and-large-language-models-in-python/9781804618257) [[Amazon]](https://www.amazon.in/Pretrain-Vision-Language-Models-Beginners-ebook/dp/B0BFFDF4MQ)
 
 ## Get to Know the Author
-**Vincent Vandenbussche** After a Ph.D. in Physics, Vincent Vandenbussche has worked for a decade in the industry, deploying ML solutions at scale. He has worked in numerous companies, such as Renault, L’Oréal, General Electric, Jellysmack, Chanel, and CERN.
-He also has a passion for teaching: he co-founded a data science boot camp, was an ML lecturer at Mines Paristech engineering school and EDHEC business school and trained numerous professionals in companies like ArcelorMittal and Orange.
+**Vincent Vandenbussche** After a Ph.D. in Physics, Vincent Vandenbussche has worked for a decade in diverse companies, deploying ML solutions at scale. He has worked in numerous companies, such as Renault, L’Oréal, General Electric, Jellysmack, Chanel, and CERN.
+He also has a passion for teaching; he co-founded a data science boot camp, was an ML lecturer at Mines Paristech engineering school and EDHEC business school and trained numerous professionals in companies like ArcelorMittal and Orange.
 
 ## Usage
 
@@ -84,3 +201,7 @@ Then launch jupyter notebook, run and adapt the codes as you want:
 ```shell
 jupyter notebook
 ```
+
+## Feedbacks
+
+For any feedback or typo, please open an issue and describe it.
