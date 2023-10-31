@@ -27,7 +27,29 @@ If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1837
 
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" alt="https://www.packtpub.com/" border="5" /></a>
 
-## Detailed Chapters Content
+## Instructions and Navigations
+All of the code is organized into folders.
+
+The code will look like the following:
+```
+# Load data
+data = pd.read_csv('Tweets.csv')
+data[['airline_sentiment', 'text']].head()
+```
+
+**Following is what you need for this book:**
+This book is for data scientists, machine learning engineers, and machine learning enthusiasts, looking to get hands-on knowledge to improve the performances of their models. Basic knowledge of Python is a prerequisite.
+
+With the following software and hardware list you can run all code files present in the book (Chapter 1-11).
+
+### Software and Hardware List
+
+| Chapter  | Software required                                                                    | OS required                        |
+| -------- | -------------------------------------------------------------------------------------| -----------------------------------|
+|  	1-11   | Python 3.9   							                                              | Windows, Mac OS X, and Linux (Any) |
+
+
+### Detailed Chapters Content
 <details>
     <summary>
         <a href="chapter_01/chapter_01.ipynb">Chapter 1: An Overview of Regularization</a>
@@ -156,32 +178,10 @@ If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1837
 - Implementing real-time style transfer
 </details>
 
-## Instructions and Navigations
-All of the code is organized into folders.
-
-The code will look like the following:
-```
-# Load data
-data = pd.read_csv('Tweets.csv')
-data[['airline_sentiment', 'text']].head()
-```
-
-**Following is what you need for this book:**
-This book is for data scientists, machine learning engineers, and machine learning enthusiasts, looking to get hands-on knowledge to improve the performances of their models. Basic knowledge of Python is a prerequisite.
-
-With the following software and hardware list you can run all code files present in the book (Chapter 1-11).
-
-### Software and Hardware List
-
-| Chapter  | Software required                                                                    | OS required                        |
-| -------- | -------------------------------------------------------------------------------------| -----------------------------------|
-|  	1-11   | Python 3.9   							                                              | Windows, Mac OS X, and Linux (Any) |
-
-
 ### Related products <Other books you may enjoy>
-* Causal Inference and Discovery in Python [[Packt]](https://www.packtpub.com/product/causal-inference-and-discovery-in-python/9781804612989) [[Amazon]](https://www.amazon.in/Causal-Inference-Discovery-Python-learning/dp/1804612987)
+* Causal Inference and Discovery in Python [[Packt]](https://www.packtpub.com/product/causal-inference-and-discovery-in-python/9781804612989) [[Amazon]](https://www.amazon.com/Causal-Inference-Discovery-Python-learning-ebook/dp/B0C4LKQ1X7)
 
-* Pretrain Vision and Large Language Models in Python [[Packt]](https://www.packtpub.com/product/pretrain-vision-and-large-language-models-in-python/9781804618257) [[Amazon]](https://www.amazon.in/Pretrain-Vision-Language-Models-Beginners-ebook/dp/B0BFFDF4MQ)
+* Pretrain Vision and Large Language Models in Python [[Packt]](https://www.packtpub.com/product/pretrain-vision-and-large-language-models-in-python/9781804618257) [[Amazon]](https://www.amazon.com/Pretrain-Vision-Language-Models-Beginners/dp/180461825X)
 
 ## Get to Know the Author
 **Vincent Vandenbussche** After a Ph.D. in Physics, Vincent Vandenbussche has worked for a decade in diverse companies, deploying ML solutions at scale. He has worked in numerous companies, such as Renault, L’Oréal, General Electric, Jellysmack, Chanel, and CERN.
