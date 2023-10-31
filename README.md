@@ -32,6 +32,7 @@ If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1837
     <summary>
         <a href="chapter_01/chapter_01.ipynb">Chapter 1: An Overview of Regularization</a>
     </summary>
+
 - Introducing regularization
 </details>
 
@@ -39,6 +40,7 @@ If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1837
     <summary>
         <a href="chapter_02/chapter_02.ipynb">Chapter 2: Machine Learning Refresher</a>
     </summary>
+
 - Loading the data
 - Splitting the data
 - Preparing quantitative data
@@ -52,6 +54,7 @@ If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1837
     <summary>
         <a href="chapter_03/chapter_03.ipynb">Chapter 3: Regularization with Linear Models</a>
     </summary>
+
 - Training a Linear Regression with scikit-learn
 - Regularizing with Ridge Regression
 - Regularizing with Lasso Regression
@@ -65,6 +68,7 @@ If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1837
     <summary>
         <a href="chapter_04/chapter_04.ipynb">Chapter 4: Regularization with Tree-based Models</a>
     </summary>
+
 - Building a classification tree
 - Building a Regression Tree
 - Regularizing a decision tree
