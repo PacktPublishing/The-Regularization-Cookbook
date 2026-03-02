@@ -1,5 +1,3 @@
-<p align='center'><a href='https://www.eventbrite.com/e/machine-learning-and-generative-ai-system-design-workshop-tickets-1975103644168?aff=Github'><img src='https://static.packt-cdn.com/assets/images/packt+events/Sairam_ML_GenAI_Github_banner.png'/></a></p>
-
 # The Regularization Cookbook
 
 <a href="https://www.packtpub.com/product/the-regularization-cookbook/9781837634088"><img src="https://content.packt.com/B19629/cover_image_small.jpg" alt="The Regularization Cookbook" height="256px" align="right"></a>
